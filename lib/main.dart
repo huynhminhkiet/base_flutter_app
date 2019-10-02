@@ -83,5 +83,4 @@ class MyApp extends StatelessWidget {
   }
 }
 
-// hotfix
-// new feature
+// new feature 2
