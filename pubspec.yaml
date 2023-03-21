@@ -24,7 +24,7 @@ dependencies:
   flutter_bloc: ^0.21.0
   flutter_simple_dependency_injection: ^1.0.1
   shared_preferences: ^0.5.3+4
-  dio: 2.2.1
+  dio: ">=2.2.1 <6.0.0"
   sprintf: ^4.0.0
   google_maps_flutter: ^0.5.21+2
   location: ^2.3.5
